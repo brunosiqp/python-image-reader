@@ -29,4 +29,3 @@ Put your image file in the project folder (or specify the full path).
 Edit the script to set your image filename in the imagem_path variable.
 
 Run the script: python image_reader.py
-a
